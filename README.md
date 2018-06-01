@@ -1,2 +1,1 @@
-# OnlyTheBestVan
-Point of Sale System
+# Acadamic Projects
